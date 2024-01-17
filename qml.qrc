@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BackGround.qml</file>
+        <file>ListOption.qml</file>
+        <file>QtProperty.qml</file>
+        <file>QtPropertyItem.qml</file>
+        <file>copy.png</file>
+        <file>PopUpNotify.qml</file>
+    </qresource>
+</RCC>
